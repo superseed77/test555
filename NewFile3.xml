@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.formation.org/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.formation.org/Patient Patient.xsd ">
+  <id>0</id>
+  <name>name</name>
+  <age>0</age>
+  <dob>2001-01-01</dob>
+  <email>email</email>
+  <gender>gender</gender>
+  <phone>phone</phone>
+</tns:patient>

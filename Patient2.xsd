@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+
+	<element name="patient">
+		<!-- Let's define Patient with all his elements -->
+		<complexType>
+			<sequence>
+				<!-- Order matters -->
+				<element name="id" type="int" />
+				<element name="name" type="string" />
+				<element name="age" type="int" />
+				<element name="dob" type="date" />
+				<element name="email" type="string" />
+				<element name="gender" type="string" />
+				<element name="phone" type="string" />
+
+			</sequence>
+		</complexType>
+	</element>
+</schema>

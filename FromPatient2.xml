@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Patient2.xsd">
+  <id>0</id>
+  <name>name</name>
+  <age>0</age>
+  <dob>2001-01-01</dob>
+  <email>email</email>
+  <gender>gender</gender>
+  <phone>phone</phone>
+</patient>
